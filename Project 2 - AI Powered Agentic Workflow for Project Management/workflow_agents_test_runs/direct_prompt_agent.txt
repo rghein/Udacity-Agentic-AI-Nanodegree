@@ -1,0 +1,5 @@
+Prompt: What is the Capital of France?
+
+Agent Response: The capital of France is Paris.
+
+Knowledge source: The agent used the selected LLM model's general pretrained knowledge, with no external knowledge base or retrieval source.

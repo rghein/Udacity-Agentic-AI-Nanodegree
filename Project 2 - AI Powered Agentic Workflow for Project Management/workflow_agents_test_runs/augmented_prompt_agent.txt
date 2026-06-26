@@ -1,0 +1,6 @@
+Prompt: What is the capital of France?
+
+Agent Response: Dear students, The capital of France is Paris.
+
+Knowledge Source: The agent likely used its general world knowledge to identify Paris as the capital of France. The persona prompt shaped the response style by instructing the agent to answer like a college professor and begin with "Dear students," while leaving the factual content of the answer unchanged.
+
